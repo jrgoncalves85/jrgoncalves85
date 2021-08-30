@@ -5,5 +5,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrgoncalves85&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrgoncalves85&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
