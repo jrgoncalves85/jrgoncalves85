@@ -8,19 +8,8 @@ Sou um desenvolvedor WordPress com mais de 10 anos de experiência na plataforma
 
 Mais informações sobre mim no meu perfil do [LinkedIn](https://www.linkedin.com/in/jrgoncalves85/)
 
-
-## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <div align="center">
   <a href="https://github.com/jrgoncalves85">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgoncalves85&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgoncalves85&hide=javascript,scss,less&langs_count=6&layout=compact&langs_count=7&theme=light"/>
 </div>
-
-<br><br>
