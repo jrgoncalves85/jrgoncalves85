@@ -7,8 +7,3 @@ Sou um desenvolvedor WordPress com mais de 10 anos de experiência na plataforma
 - 📚 Ensino por prazer e vocação
 
 Mais informações sobre mim no meu perfil do [LinkedIn](https://www.linkedin.com/in/jrgoncalves85/)
-
-<div align="center">
-  <a href="https://github.com/jrgoncalves85">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgoncalves85&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-</div>
