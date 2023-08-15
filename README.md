@@ -11,5 +11,4 @@ Mais informações sobre mim no meu perfil do [LinkedIn](https://www.linkedin.co
 <div align="center">
   <a href="https://github.com/jrgoncalves85">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgoncalves85&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgoncalves85&hide=javascript,scss,less&langs_count=6&layout=compact&langs_count=7&theme=light"/>
 </div>
