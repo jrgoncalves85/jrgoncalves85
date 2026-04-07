@@ -11,11 +11,11 @@ Também sou professor de programação no Ensino Superior (Fatec de Itapira), on
 - Hospedagem de sites
 
 ### 💼 Empreendedor
-- Hostnet Itapira → https://itapira.hostnet.com.br/(https://itapira.hostnet.com.br/)
+- Hostnet Itapira → https://itapira.hostnet.com.br/
 
 ### 📚 Sobre mim
 Gosto de unir prática e teoria, aplicando no mercado o que ensino em sala de aula e levando para os alunos problemas reais do dia a dia de desenvolvimento.
 
 ---
 
-🔗 LinkedIn: https://www.linkedin.com/in/jrgoncalves85/(https://www.linkedin.com/in/jrgoncalves85/)
+🔗 LinkedIn: https://www.linkedin.com/in/jrgoncalves85/
